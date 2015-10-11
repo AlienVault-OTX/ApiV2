@@ -41,6 +41,7 @@ aoldaily.com
 
 # About
 The previous version of the API (http://threatcrowd.blogspot.co.uk/p/api.html) is deprecated but the endpoint is still active.
+Maltego transforms (http://threatcrowd.blogspot.co.uk/p/threatcrowd-maltego-transform.html) are also available.
 
 The Search API is designed to identify results, rather than provide detailed information.
 For detail please review the search results, or APIs (such as VirusTotal , TotalHash and PassiveTotal).
@@ -50,4 +51,5 @@ Please limit all requests to one every ten seconds. To maintain perforamnce, IP 
 
 # Terms and Conditions
 I make no guarantees as to the availability or veracity of results.
+Additionally, all information is provided "as is" and I disclaim all warranties.
 All access to the server is logged.
