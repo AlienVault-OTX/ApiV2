@@ -13,7 +13,7 @@ With the ThreatCrowd API you can search for:
 You can download a  [sample python application](https://github.com/threatcrowd/ApiV2/blob/master/PythonExample/threatcrowd.py), a [sample C# application](https://github.com/threatcrowd/ApiV2/tree/master/CSharpExample) and a [sample javascript application](http://jsfiddle.net/f60unkz1/). 
 
 # API Requests
-The request and response format is similiar to that of the VirusTotal API - this is to allow for code reuse.
+The request and response format is similiar to that of the VirusTotal API - this is to allow for code reuse. 
 HTTP GET requests are used to return JSON objects, for example:
 
 - https://www.threatcrowd.org/searchApi/v2/email/report/?email=william19770319@yahoo.com
