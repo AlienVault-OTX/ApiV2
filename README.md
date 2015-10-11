@@ -49,6 +49,5 @@ For detail please review the search results, or APIs (such as VirusTotal , Total
 Please limit all requests to one every ten seconds. To maintain perforamnce, IP addresses that don't adhere to this may be banned.
 
 # Terms and Conditions
-This is subject to change,  may be withdrawn, and is likely to be flaky.
-I make no guarantees as to the availability or veracity.
+I make no guarantees as to the availability or veracity of results.
 All access to the server is logged.
