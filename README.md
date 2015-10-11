@@ -1,4 +1,4 @@
-#![ThreatCrowd](https://www.threatcrowd.org/img/home.png  "ThreatCrowd") API Overview
+# ThreatCrowd API Overview ![ThreatCrowd](https://www.threatcrowd.org/img/home.png  "ThreatCrowd")
 The ThreatCrowd API allows you to quickly identify related infrastructure and malware.
 
 # Objects 
