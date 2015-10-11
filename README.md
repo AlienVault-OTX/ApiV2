@@ -10,7 +10,7 @@ With the ThreatCrowd API you can search for:
 - Antivirus detections
 
 # Examples
-You can download a sample python application at [link], a sample C# application at [link] and a sample javascript application at http://jsfiddle.net/f60unkz1/ .
+You can download a sample python application at [Visit GitHub!](https://www.github.com), a  at [sample C# application]](https://www.github.com) and a  [sample javascript application](http://jsfiddle.net/f60unkz1/). 
 
 # API Requests
 The request and response format is similiar to that of the VirusTotal API - this is to allow for code reuse.
@@ -39,8 +39,11 @@ Would print:
 aoldaily.com
 ```
 
-# API v1
+# About
 The previous version of the API (http://threatcrowd.blogspot.co.uk/p/api.html) is deprecated but the endpoint is still active.
+
+The Search API is designed to identify results, rather than provide detailed information.
+For detail please review the search results, or APIs (such as VirusTotal , TotalHash and PassiveTotal).
 
 # Limits
 Please limit all requests to one every ten seconds. To maintain perforamnce, IP addresses that don't adhere to this may be banned.
