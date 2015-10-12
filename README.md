@@ -10,7 +10,7 @@ With the ThreatCrowd API you can search for:
 - Antivirus detections
 
 # Examples
-You can download a  [sample python application](https://github.com/threatcrowd/ApiV2/blob/master/PythonExample/threatcrowd.py), a [sample C# application](https://github.com/threatcrowd/ApiV2/tree/master/CSharpExample) and a [sample javascript application](http://jsfiddle.net/f60unkz1/). 
+You can download a  [sample python application](https://github.com/threatcrowd/ApiV2/blob/master/PythonExample/threatcrowd.py), a [sample C# application](https://github.com/threatcrowd/ApiV2/tree/master/CSharpExample) and a [sample javascript application](http://jsfiddle.net/qq7beyy6/). 
 
 # API Requests
 The request and response format is similiar to that of the VirusTotal API - this is to allow for code reuse. 
