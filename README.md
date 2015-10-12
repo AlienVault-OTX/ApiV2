@@ -43,8 +43,8 @@ aoldaily.com
 The previous version of the API (http://threatcrowd.blogspot.co.uk/p/api.html) is deprecated but the endpoint is still active.
 Maltego transforms (http://threatcrowd.blogspot.co.uk/p/threatcrowd-maltego-transform.html) are also available.
 
-The Search API is designed to identify results, rather than provide detailed information.
-For detail please review the search results, or APIs (such as VirusTotal , TotalHash and PassiveTotal).
+The Search API is designed to provide a simple way to identify threats, and those related to them.
+However - it isn't designed to provide detailed information. In particular is no replacement for detailed APIs such as VirusTotal, TotalHash and PassiveTotal.
 
 # Limits
 Please limit all requests to one every ten seconds. To maintain perforamnce, IP addresses that don't adhere to this may be banned.
