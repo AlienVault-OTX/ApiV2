@@ -47,7 +47,11 @@ The Search API is designed to provide a simple way to identify threats, and thos
 However - it isn't designed to provide detailed information. In particular it is no replacement for more detailed APIs such as VirusTotal, TotalHash and PassiveTotal.
 
 # Limits
-Please limit all requests to one every ten seconds. To maintain perforamnce, IP addresses that don't adhere to this may be banned.
+Please limit all requests to no more than one request every ten seconds.
+
+Brief bursts of requests that exceed this (eg; if you're using Maltego to enrich a large set of indicators) are ok so long as they don't significantly impact the performance of the server.
+
+If you require faster acccess than this please drop me a line at threatcrowd@gmail.com and I can raise it - the broad principal is that faster access is fine, so long as it doesn't impact the performance for other users.
 
 # Terms and Conditions
 I make no guarantees as to the availability or veracity of results.
