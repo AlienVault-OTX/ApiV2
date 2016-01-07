@@ -7,11 +7,13 @@
 
 import requests, json
 
+'''
 result =  requests.get("http://www.threatcrowd.org/searchApi/v2/email/report/", params = {"email": "william19770319@yahoo.com"})
 print result.text
 
 j = json.loads(result.text)
 print j['domains'][0]
+'''
 
 print requests.get("http://www.threatcrowd.org/searchApi/v2/domain/report/", {"domain": "aoldaily.com"}).text
 
