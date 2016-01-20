@@ -1,0 +1,3 @@
+[submodule "RExample/threatcrowd"]
+	path = RExample/threatcrowd
+	url = https://github.com/hrbrmstr/threatcrowd.git
