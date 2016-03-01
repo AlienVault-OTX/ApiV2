@@ -54,6 +54,12 @@ Brief bursts of requests that exceed this (eg; if you're using Maltego to enrich
 
 If you require faster acccess than this please drop me a line at threatcrowd@gmail.com and I can raise it - the broad principal is that faster access is fine, so long as it doesn't impact the performance for other users.
 
+# Further Libraries and Example Implementations
+Python pypi Library - https://pypi.python.org/pypi/threatcrowd
+Go package - https://github.com/jheise/gothreat
+Splunk Application - https://splunkbase.splunk.com/app/1657/
+Web application - https://ipintel.io/
+
 # Terms and Conditions
 I make no guarantees as to the availability or veracity of results.
 Additionally, all information is provided "as is" and I disclaim all warranties.
