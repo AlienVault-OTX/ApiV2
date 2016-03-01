@@ -20,6 +20,7 @@ HTTP GET requests are used to return JSON objects, for example:
 - https://www.threatcrowd.org/searchApi/v2/domain/report/?domain=aoldaily.com
 - https://www.threatcrowd.org/searchApi/v2/ip/report/?ip=188.40.75.132
 - https://www.threatcrowd.org/searchApi/v2/antivirus/report/?antivirus=plugx
+- https://www.threatcrowd.org/searchApi/v2/file/report/?resource=ec8c89aa5e521572c74e2dd02a4daf78
 
 
 For example, the following python code:
