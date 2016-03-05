@@ -59,6 +59,10 @@ Python pypi Library - https://pypi.python.org/pypi/threatcrowd
 Go package - https://github.com/jheise/gothreat
 Splunk Application - https://splunkbase.splunk.com/app/1657/
 Web application - https://ipintel.io/
+Python application - https://github.com/QTek/QRadio
+RabbitMQ - http://stoq.punchcyber.com/docs/
+Buatapa - http://www.brimorlabsblog.com/2015/08/publicly-announcing-buatapa.html
+Command line - https://github.com/jheise/threatcmd
 
 # Terms and Conditions
 I make no guarantees as to the availability or veracity of results.
