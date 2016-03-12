@@ -40,6 +40,18 @@ Would print:
 aoldaily.com
 ```
 
+# Votes
+Results for entities will include a "votes" field, which will have one of the following values:
+-1	Most users have voted this malicious
+0	An equal number of users have voted this malicious
+1	Most users have voted this not malicious
+
+You can submit votes via the interface, or a simple API:
+- This will place a vote for "good.com" being non-malicious: https://www.threatcrowd.org/vote.php?vote=1&value=good.com
+- This will place a vote for "bad.com" being malicious: https://www.threatcrowd.org/vote.php?vote=0&value=bad.com
+
+A feed of malicious domains and IP addresses are available at http://threatcrowd.blogspot.co.uk/2016/02/crowdsourced-feeds-from-threatcrowd.html
+
 # About
 The previous version of the API (http://threatcrowd.blogspot.co.uk/p/api.html) is deprecated but the endpoint is still active.
 Maltego transforms (http://threatcrowd.blogspot.co.uk/p/threatcrowd-maltego-transform.html) are also available.
@@ -63,6 +75,7 @@ If you require faster acccess than this please drop me a line at threatcrowd@gma
 - RabbitMQ - http://stoq.punchcyber.com/docs/
 - Buatapa - http://www.brimorlabsblog.com/2015/08/publicly-announcing-buatapa.html
 - Command line - https://github.com/jheise/threatcmd
+- Splunk Application 2 - https://splunkbase.splunk.com/app/3081/
 
 # Terms and Conditions
 I make no guarantees as to the availability or veracity of results.
