@@ -47,8 +47,8 @@ Results for entities will include a "votes" field, which will have one of the fo
 1	Most users have voted this not malicious
 
 You can submit votes via the interface, or a simple API:
-- This will place a vote for "good.com" being non-malicious: https://www.threatcrowd.org/vote.php?vote=1&value=good.com
-- This will place a vote for "bad.com" being malicious: https://www.threatcrowd.org/vote.php?vote=0&value=bad.com
+- This will place a vote for "good.com" being non-malicious: [https://www.threatcrowd.org/vote.php?vote=1&value=good.com]
+- This will place a vote for "bad.com" being malicious: [https://www.threatcrowd.org/vote.php?vote=0&value=bad.com]
 
 A feed of malicious domains and IP addresses are available at http://threatcrowd.blogspot.co.uk/2016/02/crowdsourced-feeds-from-threatcrowd.html
 
