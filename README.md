@@ -76,6 +76,7 @@ If you require faster acccess than this please drop me a line at threatcrowd@gma
 - Buatapa - http://www.brimorlabsblog.com/2015/08/publicly-announcing-buatapa.html
 - Command line - https://github.com/jheise/threatcmd
 - Splunk Application 2 - https://splunkbase.splunk.com/app/3081/
+- R Package - https://github.com/threatcrowd/ApiV2/tree/master/RExample
 
 # Terms and Conditions
 I make no guarantees as to the availability or veracity of results.
